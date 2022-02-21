@@ -1,3 +1,5 @@
+// This code practiced by youtuber satu bai
+
 // parameter and its evalatioN
 
 /*
